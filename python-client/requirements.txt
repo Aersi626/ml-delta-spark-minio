@@ -1,0 +1,8 @@
+pyspark==3.3.0
+delta-spark==2.2.0
+minio 
+pandas 
+numpy
+scikit-learn
+mlflow
+boto3

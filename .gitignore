@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+data/
+python-client/data
+minio_data/
